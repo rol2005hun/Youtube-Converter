@@ -1,2 +1,2 @@
-PyInstaller: 5.13.2
-auto-py-to-exe
+pip install pyinstaller==5.13.2
+pip install auto-py-to-exe
